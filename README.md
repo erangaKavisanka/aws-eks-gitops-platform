@@ -45,6 +45,17 @@ Amazon EKS
 ```
 
 Infrastructure is managed independently using Terraform through a dedicated Infrastructure repository.
+---
+
+# Repository Links
+
+| Repository | Description |
+|------------|-------------|
+| **vprofile-app** | Application source code and CI pipeline | https://github.com/erangaKavisanka/vprofile-app.git
+| **vprofile-helm** | Helm charts and GitOps configuration | https://github.com/erangaKavisanka/vprofile-helm.git
+| **vprofile-infra** | Terraform infrastructure and AWS provisioning | https://github.com/erangaKavisanka/vprofile-infra.git
+
+---
 
 
 
@@ -365,17 +376,7 @@ Through this project I gained practical experience with:
 - OpenTelemetry
 - Multi-Cluster GitOps
 
----
 
-# Repository Links
-
-| Repository | Description |
-|------------|-------------|
-| **vprofile-app** | Application source code and CI pipeline |
-| **vprofile-helm** | Helm charts and GitOps configuration |
-| **vprofile-infra** | Terraform infrastructure and AWS provisioning |
-
----
 
 # Author
 
