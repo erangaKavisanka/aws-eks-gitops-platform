@@ -49,11 +49,11 @@ Infrastructure is managed independently using Terraform through a dedicated Infr
 
 # Repository Links
 
-| Repository | Description |
-|------------|-------------|
-| **vprofile-app** | Application source code and CI pipeline | https://github.com/erangaKavisanka/vprofile-app.git
-| **vprofile-helm** | Helm charts and GitOps configuration | https://github.com/erangaKavisanka/vprofile-helm.git
-| **vprofile-infra** | Terraform infrastructure and AWS provisioning | https://github.com/erangaKavisanka/vprofile-infra.git
+| Repository | Description | Link | 
+|------------|-------------|-------------|
+| **vprofile-app** | Application source code and CI pipeline | https://github.com/erangaKavisanka/vprofile-app.git | 
+| **vprofile-helm** | Helm charts and GitOps configuration | https://github.com/erangaKavisanka/vprofile-helm.git | 
+| **vprofile-infra** | Terraform infrastructure and AWS provisioning | https://github.com/erangaKavisanka/vprofile-infra.git |
 
 ---
 
